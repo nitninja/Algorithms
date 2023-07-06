@@ -1,2 +1,2 @@
 # Algorithms
- basic kind of algos
+ Basic kind of algos
